@@ -84,6 +84,9 @@ which contains a number of sections for various parts of the Kata
 Containers system including the [runtime](src/runtime), the
 [agent](src/agent) and the [hypervisor](#hypervisors).
 
+## $ gitlab-runner run
+Runtime platform arch=arm64 os=linux pid=8 revision=853330f9 version=16.5.0
+
 ## Hypervisors
 
 See the [hypervisors document](docs/hypervisors.md) and the
